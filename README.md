@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tawgl**
 
-- 🌱 I’m currently learning **React J.s , Node J.S**
+- 🌱 Tech Stack:- **React J.s , Node J.S , TypeScript , Redux , WebSocket , Git **
 
 - 📫 How to reach me **kumarasutosh2014@gmail.com**
 
