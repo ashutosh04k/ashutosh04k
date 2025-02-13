@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **100acress.com**
 
-- 🌱 Tech Stack:- **React J.s , A.W.S ,Javascript , Node J.S , MONGODB , TypeScript , Redux , WebSocket , Git , GitHub - Actions **
+- 🌱 Tech Stack & Tools :- **React J.s , A.W.S ,Javascript , Node J.S , MONGODB , TypeScript , Redux , WebSocket , Git , GitHub - Actions **
  
 - 📫 How to reach me **kumarasutosh2014@gmail.com**
 
