@@ -9,7 +9,7 @@
  
 - 📫 How to reach me **kumarasutosh2014@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Kumarasutosh2014@gmail.com</h3>
 <p align="left">
 </p>
 
