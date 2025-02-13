@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on **Tawgl**
 
-- 🌱 Tech Stack:- **React J.s , Node J.S , TypeScript , Redux , WebSocket , Git **
-
+- 🌱 Tech Stack:- **React J.s , A.W.S , Node J.S , MONGODB , TypeScript , Redux , WebSocket , Git , GitHub - Actions **
+ 
 - 📫 How to reach me **kumarasutosh2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
